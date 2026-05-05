@@ -1,29 +1,29 @@
-<h1 align="center">Hi, I'm Ayush 👋</h1>
-<h3 align="center">Senior Software Developer | Tech Lead | AI & Web3 Architect</h3>
+<h1 align="center">Hi, I'm Ayush</h1>
+<h3 align="center">Principal Software Architect | Founding Engineer | AI & Web3 Architect</h3>
 
 <p align="center">
-  <em>Building scalable platforms, mentoring developers, and bridging the gap between Native Mobile, Web3, and AI.</em>
+  <em>Building scalable platforms, architecting distributed systems, and bridging the gap between High-Scale Web, Web3, and AI.</em>
 </p>
 
-<!-- <p align="center">
-  <a href="https://linkedin.com/in/xxx-xx">
+<p align="center">
+  <!-- <a href="https://linkedin.com/in/ayushgupta-au">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:xxx.xx@outlook.com">
+  </a> -->
+  <a href="mailto:ayush@voozer.site">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-</p> -->
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I am a **Senior Software Developer** with years of experience engineering high-performance systems. Currently, I focus on **scalable frontend architectures**, **Web3 integration**, and **LLM-powered applications**.
+I am a **Principal Software Architect** and **Founding Engineer** with years of experience engineering high-performance systems. Currently, I focus on **scalable frontend architectures**, **Web3 integration**, and **high-performance AI inference**.
 
-- 🔭 **Currently working on:** Scaling Next.js platforms to 250k+ users and optimizing WebRTC video pipelines.
+- 🔭 **Currently working on:** Scaling Next.js platforms to 500k+ monthly active users and optimizing WebRTC video pipelines.
 - 🤝 **I mentor:** Frontend and Mobile developers on code quality, system design, and career growth.
 - 🌱 **Learning:** Advanced Solana smart contracts and Agentic AI workflows.
-- 💬 **Ask me about:** React Performance, React Native Modules, System Scaling, and AI Integration.
+- 💬 **Ask me about:** React Performance, WebRTC Handshakes, Distributed System Scaling, and AI Infrastructure.
 
 ---
 
